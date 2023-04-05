@@ -40,11 +40,11 @@ My previous experience: Solar/PV/load forecasting, Robotics and Computer Vision.
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <br />
  <!-- Your github readme stats
-You can use this api: https://github.com/Gloria0702/github-readme-stats
+You can use this api: https://github.com/Huanyue001/github-readme-stats
 -->
-[![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gloria0702)](https://github.com/anuraghazra/github-readme-stats)
+[![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huanyue001)](https://github.com/anuraghazra/github-readme-stats)
 - 💬 Ask me about programming and deep learning in general, I am always <br> available to help and learn together.
 - ⚡ Fun fact: I am a photographer!
 
-:star: From [GloriaLIAO](https://github.com/Gloria0702)
+:star: From [GloriaLIAO](https://github.com/Huanyue001)
 
